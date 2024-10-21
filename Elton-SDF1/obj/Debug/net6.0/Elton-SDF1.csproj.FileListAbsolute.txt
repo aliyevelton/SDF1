@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\bin\Debug\net6.0\Elton-SDF1.exe
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\bin\Debug\net6.0\Elton-SDF1.deps.json
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\bin\Debug\net6.0\Elton-SDF1.runtimeconfig.json
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\bin\Debug\net6.0\Elton-SDF1.dll
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\bin\Debug\net6.0\Elton-SDF1.pdb
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.AssemblyInfo.cs
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.dll
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\refint\Elton-SDF1.dll
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.pdb
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\Elton-SDF1.genruntimeconfig.cache
+C:\Users\User\source\repos\Elton-SDF1\Elton-SDF1\obj\Debug\net6.0\ref\Elton-SDF1.dll
